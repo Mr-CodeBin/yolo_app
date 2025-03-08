@@ -1,12 +1,12 @@
 import 'dart:developer';
 
-import 'package:bookio_test/utils/card_utils.dart';
-import 'package:bookio_test/utils/constant.dart';
-import 'package:bookio_test/widgets/cust_navbar.dart';
 import 'package:flutter/material.dart';
 
 import 'package:google_fonts/google_fonts.dart';
 import 'package:iconsax/iconsax.dart';
+import 'package:yolo_app/utils/card_utils.dart';
+import 'package:yolo_app/utils/constant.dart';
+import 'package:yolo_app/widgets/cust_navbar.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

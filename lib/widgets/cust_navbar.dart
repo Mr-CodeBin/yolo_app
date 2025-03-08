@@ -1,6 +1,6 @@
-import 'package:bookio_test/utils/constant.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:yolo_app/utils/constant.dart';
 
 class CurvedNavigationBar extends StatelessWidget {
   const CurvedNavigationBar({
